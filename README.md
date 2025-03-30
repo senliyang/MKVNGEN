@@ -9,7 +9,7 @@ numpy ≈ 1.19.5
 pandas ≈ 1.1.5
 scikit-learn ≈ 0.24.2
 # Usage
-Default is 5-fold cross validation from CVm to CVmid on HMDIP and Peryton databases. To run this model：python main.py
+Default is 5-fold cross validation. To run this model：python main.py
 Calculate the integrated similarity between microbes and diseases  　&ensp;                  python generate_kernel.py          
 Extract the linear features of microbes and diseases             　&ensp;        python NMF.py                 
 Extract the nonlinear features of microbes and diseases          　&ensp;      python GATE.py ;python VGAE.py
