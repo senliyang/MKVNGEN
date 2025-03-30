@@ -1,6 +1,6 @@
 # MKVNGEN
 # Flowchart
-![image][(https://github.com/senliyang/MKVNGEN/blob/main/model.png)]
+![image](https://github.com/senliyang/MKVNGEN/blob/main/model.png)
 # Requirements
 Install python3.9 for running this model. And these packages should be satisfied:
 tensorflow-gpu ≈2.6.0
